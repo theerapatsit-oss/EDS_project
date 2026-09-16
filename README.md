@@ -7,8 +7,8 @@ Mr Theerapat Sittiphan
 
 Student ID: 683020576-9
 
-## Create Python
-'python3 -m venv.venv'
+## Create Python environment
+'''python3 -m venv.venv'
 
 Create the new python
 
