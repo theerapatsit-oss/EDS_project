@@ -6,3 +6,8 @@ This project is create for learning ESD in 1-69 SC
 Mr Theerapat Sittiphan 
 
 Student ID: 683020576-9
+
+## Create Python
+'python3 -m venv.venv'
+Create the new python
+environment named '.venv
